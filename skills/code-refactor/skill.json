@@ -1,8 +1,8 @@
 ﻿{
   "name": "code-refactor-skill",
   "version": "0.1.0",
-  "description": "Suggest safe code refactoring plans from manifest metadata.",
-  "entry": "skills/code-refactor/index.ts",
-  "capabilities": ["code_refactor", "static_planning"],
-  "permissions": []
+  "description": "Refactor source code while preserving behavior.",
+  "entry": "index.ts",
+  "capabilities": ["code_refactor", "source_editing"],
+  "permissions": ["file:read", "file:write:src"]
 }
