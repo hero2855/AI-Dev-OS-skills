@@ -1,0 +1,8 @@
+﻿{
+  "name": "github-search-skill",
+  "version": "0.1.0",
+  "description": "Search GitHub repositories for relevant AI Dev OS skills.",
+  "entry": "skills/github-search/index.ts",
+  "capabilities": ["github_search", "repository_discovery"],
+  "permissions": ["network:github"]
+}

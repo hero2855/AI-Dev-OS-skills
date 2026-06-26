@@ -1,0 +1,7 @@
+﻿{
+  "skills": [
+    "skills/github-search/skill.json",
+    "skills/readme-generator/skill.json",
+    "skills/code-refactor/skill.json"
+  ]
+}

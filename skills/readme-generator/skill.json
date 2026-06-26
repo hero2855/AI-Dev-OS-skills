@@ -1,0 +1,8 @@
+﻿{
+  "name": "auto-readme-generator",
+  "version": "0.1.0",
+  "description": "Generate README content from project context.",
+  "entry": "skills/readme-generator/index.ts",
+  "capabilities": ["readme_generation", "content_writing"],
+  "permissions": []
+}
